@@ -11,7 +11,7 @@ export default function Navigation() {
           <div className="flex gap-3 items-center">
           <img
         className="rounded-lg"
-        src="/gallery5.jpeg"
+        src="/gallery5d.jpeg"
         alt="logo"
         width={60}
         height={60}
