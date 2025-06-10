@@ -17,7 +17,7 @@ export default function Navigation() {
         height={60}
       />
         <a href="#" className="text-2xl font-bold lobster text-blue-400">
-            Usuludeen
+        Markaz Usuludeen
           </a>
 
           </div>
